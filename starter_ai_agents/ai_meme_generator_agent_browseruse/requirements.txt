@@ -1,2 +1,2 @@
 streamlit
-browser-use==0.13.8
+browser-use==0.13.11
